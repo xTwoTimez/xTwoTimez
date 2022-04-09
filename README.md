@@ -1,6 +1,6 @@
 👊 Yo! What's good fam? im @xTwoTimez or X 
-- 🧑‍🎓 Im really interested learning to be a dev for fivem server 
+- 🧑‍🎓Interested learning to be frontend dev for now in hopes of becomimg a full stack in the future
 - 👶 Still learning Html,Css & Javascript & Python Basics
-- 💭 Hoping i could get a good soul to help, teach & guide me on my coding journey
+- 💭 Hoping i could collaborate on projects so i can learn and get better on my coding journey
 - 📥 How to reach me? xtwotimez@gmail.com
 </end>
